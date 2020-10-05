@@ -1,23 +1,23 @@
-Matriisilaksin C++:lla kurssille olio-ohjelmoinnin jatkokurssi.
+Matriisilaskin C++:lla kurssille olio-ohjelmoinnin jatkokurssi.
 
-Matriisilaskimen käyttöohjeet:
+Matriisilaskimen kÃ¤yttÃ¶ohjeet:
 
-Matriisien tulee olla neliömatriiseja.
-Matriisit voivat sisältää kirjaimia tai numeroita.
-Syötetyt matriisit tallennetaan pinoon.
+Matriisien tulee olla neliÃ¶matriiseja.
+Matriisit voivat sisÃ¤ltÃ¤Ã¤ kirjaimia tai numeroita.
+SyÃ¶tetyt matriisit tallennetaan pinoon.
 
-Voit syöttää laskimelle matriiseja muodossa "[[1,x][2,y]]" tai "[[1,2,3][x,y,z][a,b,c]]" jne.
+Voit syÃ¶ttÃ¤Ã¤ laskimelle matriiseja muodossa "[[1,x][2,y]]" tai "[[1,2,3][x,y,z][a,b,c]]" jne.
 
-Jos annetaan '+', '-' tai '*' suoritetaan vastaava operaatio kahdelle päällimmäiselle matriisille ja
-asetetaan laskettu matriisi pinoon. Tulostetaan myös käyttäjälle lopputulos.
+Jos annetaan '+', '-' tai '*' suoritetaan vastaava operaatio kahdelle pÃ¤Ã¤llimmÃ¤iselle matriisille ja
+asetetaan laskettu matriisi pinoon. Tulostetaan myÃ¶s kÃ¤yttÃ¤jÃ¤lle lopputulos.
 
-Voi antaa esim. "x=1" jolloin laskin ymmärtää kyseisen merkin vastaavan kyseistä numeroa matriiseja laskettaessa.
+Voi antaa esim. "x=1" jolloin laskin ymmÃ¤rtÃ¤Ã¤ kyseisen merkin vastaavan kyseistÃ¤ numeroa matriiseja laskettaessa.
 
-Jos antaa '=' niin laskin kertoo käyttäjälle pinon päällimmäisen matriisin.
+Jos antaa '=' niin laskin kertoo kÃ¤yttÃ¤jÃ¤lle pinon pÃ¤Ã¤llimmÃ¤isen matriisin.
 
-Syöttämällä "quit" ohjelma päättyy
+SyÃ¶ttÃ¤mÃ¤llÃ¤ "quit" ohjelma pÃ¤Ã¤ttyy
 
 
 
-Käyttää testaukseen Catch 2 testauskehystä
+KÃ¤yttÃ¤Ã¤ testaukseen Catch 2 testauskehystÃ¤
 https://github.com/catchorg/Catch2
