@@ -17,6 +17,10 @@ Jos antaa '=' niin laskin kertoo käyttäjälle pinon päällimmäisen matriisin
 
 Syöttämällä "quit" ohjelma päättyy
 
+Ohjeet komentorivillä kääntämiseen (tarvii g++):
+- `g++ -c *.cpp *.h catch.hpp`
+- `g++ -o laskin.exe *.o`
+- `.\laskin.exe`
 
 
 Käyttää testaukseen Catch 2 testauskehystä
